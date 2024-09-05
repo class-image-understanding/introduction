@@ -17,7 +17,7 @@
 - Presentation: 60%
 - Evaluation: 40%
 
-### Presentation
+## Presentation
 
 - 15 minutes for the presentation and 5 minutes for the Q&A session
 - Presentation should include
@@ -29,7 +29,7 @@
 - Allowed to swap the presentation schedule among students
 - Presentation schedule change should be permitted by the professor one week before the earlier schedule
  
-### Evluation
+## Evluation
 
 - Give a rank to each presentation among first, second, thrid and others
 - Evaluation criteria include significance, understandability and technicality
