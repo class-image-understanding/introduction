@@ -8,7 +8,8 @@
 
 ## Schedule
 
-- 2024.09.20: deadline for the assignment of the presentation
+- 2024.09.20: deadline for the selection of the paper for presentation (beginning of the class)
+- 2024.09.20: assigning the presentation schedule (ending the class)
 - 2024.10.11: no class
 - 2024.10.25: no class
 
@@ -25,6 +26,7 @@
   - objective
   - method
   - result
+- Missing the paper asignment will result in the failure of the class
 - Missing presentation will result in the failure of the class
 - Allowed to swap the presentation schedule among students
 - Presentation schedule change should be permitted by the professor one week before the earlier schedule
