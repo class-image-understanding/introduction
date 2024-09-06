@@ -31,7 +31,7 @@
 - Missing presentation will result in the failure of the class
 - Allowed to swap the presentation schedule among students
 - Presentation schedule change should be permitted by the professor one week before the earlier schedule
-- Presentation material should be uploaded at Google Classroom before the beginning of the class
+- Presentation material should be uploaded at Google Classroom before the beginning of the class for the presentation
  
 ## Evluation
 
