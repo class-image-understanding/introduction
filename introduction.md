@@ -39,3 +39,4 @@
 - Incorrect or missing evaluation will result in a penalty with 20% of the total evaluation score
 - Inappropriate evaluation will result in the failure of the class
 - Missing a half of the evaluations will result in the failure of the class
+- Presenter will not take part in the evaluation
