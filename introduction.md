@@ -8,6 +8,7 @@
 
 ## Schedule
 
+- class starts at 9:30am
 - 2024.09.20: deadline for the selection of the paper for presentation (beginning of the class)
 - 2024.09.20: assigning the presentation schedule (ending the class)
 - 2024.10.11: no class
